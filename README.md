@@ -1,0 +1,2 @@
+# SingleIndex
+ SingleIndexModel parametric inference
